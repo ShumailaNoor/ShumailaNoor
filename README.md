@@ -5,6 +5,7 @@ Mobile Application Developer | Flutter | AI Integration | Clean Architecture
 I build high-performance cross-platform apps using Flutter and Dart, integrating AI for smarter and more engaging user experiences.  
 Focused on writing clean code, creating intuitive UI/UX, and developing scalable mobile solutions.  
 
+---
 
 # 🛠 Tech Stack
 - Languages: Dart, Java, Kotlin (basic), Python, C++
